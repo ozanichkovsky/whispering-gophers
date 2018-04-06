@@ -1,3 +1,5 @@
+# My solutions are in my-solution directory
+
 # Whispering Gophers
 
 This project is part of the Go codelab for Google I/O 2013 called "Whispering Gophers: networking programming in Go"
